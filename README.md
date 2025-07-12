@@ -1,6 +1,5 @@
 # 🚀 Dimenshift – A 4D Voxel Sandbox Game
 
-![banner](https://your-banner-image-url-here.com)
 
 **Dimenshift** is an experimental sandbox game engine that lets you explore and interact with voxel worlds in **four spatial dimensions**.  
 Originally inspired by an abandoned prototype, it has now been revived and reimagined into a futuristic game concept using **C# + SDL2**.
@@ -64,15 +63,7 @@ SDL2 + C# development
 
 📫 Interested in working together? Reach out via my Upwork or GitHub!
 
-yaml
-Copy
-Edit
+
 
 ---
 
-## ✅ Next Step for You:
-- Copy & paste that into your new `README.md` on GitHub
-- Replace the `banner` link later with an image (I’ll help design it free)
-- Optional: I can also write your **Upwork portfolio entry** to go with this
-
-Want that too? Just say **“Make my Upwork project description”** and I’ll do it.
