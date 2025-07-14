@@ -48,9 +48,7 @@ You can upload your own here later — just drag image/GIF into this README on G
 This project is based on code originally released under The Unlicense, which places it in the public domain.
 It has been rebranded, restructured, and revived as a new open-source project by @sidthebuilder.
 
-🙌 Credits
-Originally inspired by the Hyxel prototype by copygirl.
-All further work, branding, and development by @sidthebuilder.
+
 
 💼 Freelancers / Recruiters
 I created Dimenshift to showcase:
