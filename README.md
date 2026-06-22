@@ -85,4 +85,4 @@ This project is open-source software licensed under the **Unlicense** (Public Do
 
 ---
 
-*Maintained by the Dimenshift Open Source Community.*
+
